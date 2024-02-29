@@ -1,7 +1,4 @@
-Attribute VB_Name = "Module1"
-Sub year()
 
-'Challenge 2 VBA Scripts - Student: Mario Loayza
 
 ' ----------------------------------------------------------------
 ' Inside each Year worksheet output: Ticker Symbol, Yearly price,
